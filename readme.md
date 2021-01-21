@@ -1,4 +1,4 @@
-# Project 3 - *Instagram Clone*
+# Assignment 6 - *Instagram Clone*
 
 **Instagram Clone** is a photo sharing app similar to Instagram but using Parse as its backend.
 
@@ -48,26 +48,10 @@ I know this isn't my best effort, but I did what I could given the week. Thanks 
 
 
 
+# Assignment 5 - *Instagram Clone*
+
 Time spent: 4 hours spent in total
 
-## User Stories
-
-The following **required** functionality is completed:
-
-- [X] User can sign up to create a new account using Parse authentication.
-- [X] User can log in and log out of his or her account.
-- [X] The current signed in user is persisted across app restarts.
-- [X] User can take a photo, add a caption, and post it to "Instagram".
-
-The following **optional** features are implemented:
-
-- [ ] User sees app icon in home screen and styled bottom navigation view
-- [ ] Style the feed to look like the real Instagram feed.
-- [ ] After the user submits a new post, show an indeterminate progress bar while the post is being uploaded to Parse.
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
